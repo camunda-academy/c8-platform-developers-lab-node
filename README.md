@@ -18,7 +18,7 @@ Before you begin, ensure you have the following installed on your system:
 npm install @camunda8/sdk
 ```
 
-2. **Run the program `node test-sdk.js`**
+2. **Run the program `node src/test-sdk.js`**
 You should get a message: Camunda 8 *SDK installed successfully* followed by a json file.
 
 ## Run
