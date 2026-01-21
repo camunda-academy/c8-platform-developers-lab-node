@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/camunda-academy/c8-platform-developers-lab-node#readme",
   "dependencies": {
-    "@camunda8/sdk": "^8.5.0"
+    "@camunda8/sdk": "^8.8.4"
   }
 }
